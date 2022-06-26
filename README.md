@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AcheliaCode
 - 👀 I’m interested in art
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on recipe website
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (is a secret)
 
 <!---
